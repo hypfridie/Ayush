@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush01T
-- 👀 I’m interested in Programming and Game Developing
-- 🌱 I’m currently learning C# for Unity Engine
-- 📫 How to reach me - contact me on ....
+- 👀 I’m interested in Programming, Game, Android Developing and website building 
+- 🌱 I’m currently learning C# for Unity Engine and javascript for Android studio
+- 📫 How to reach me - (don't)
 
 <!---
 Ayush01T/Ayush01T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
